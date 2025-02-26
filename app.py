@@ -19,7 +19,7 @@ st.title("LangChain: Chat with SQL Database")
 # """
 LOCALDB="USE_LOCALDB"
 MYSQL="USE_MYSQL"
-#
+
 radio_option=["Use SQLLite3 Database - Student.db","Connect to your SQL Database"]
 
 selected_opt=st.sidebar.radio(label="Choose the DB which you want to chat",options=radio_option)
