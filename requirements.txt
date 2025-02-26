@@ -5,4 +5,3 @@ langchain_community
 streamlit
 langchain_groq
 sqlalchemy
-sqlite3
