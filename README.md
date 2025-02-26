@@ -87,7 +87,6 @@ The required libraries are listed in `requirements.txt`. Some key dependencies i
 - `streamlit`
 - `langchain`
 - `sqlalchemy`
-- `mysql-connector-python`
 - `langchain_groq`
 
 ## License
