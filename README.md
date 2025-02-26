@@ -1,9 +1,13 @@
 ---
-license: apache-2.0
-title: SQL Search Engine
+title: Chat With SQL Using Groq
+emoji: 🌍
+colorFrom: pink
+colorTo: purple
 sdk: streamlit
-colorFrom: red
-colorTo: blue
+sdk_version: 1.42.2
+app_file: app.py
+pinned: false
+license: apache-2.0
 short_description: Search Engine with SQL using Groq LLM Model
 ---
 
